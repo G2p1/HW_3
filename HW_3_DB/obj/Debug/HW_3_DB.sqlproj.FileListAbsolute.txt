@@ -1,0 +1,6 @@
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\bin\Debug\HW_3_DB.dacpac
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\bin\Debug\HW_3_DB.dll
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\bin\Debug\HW_3_DB.pdb
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\obj\Debug\HW_3_DB.sqlproj.AssemblyReference.cache
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\obj\Debug\HW_3_DB.dll
+D:\Work\CHI_HW\HW_3_CHI\HW_3\HW_3_DB\HW_3_DB\obj\Debug\HW_3_DB.pdb
